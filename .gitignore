@@ -2,3 +2,4 @@ $ echo ".vs/" >> .gitignore
 $ git rm -r --cached .vs
 $ git add .
 $ git commit -m "Ignore .vs directory"
+echo "!.vs/04.07.2024 homework/" >> .gitignore
